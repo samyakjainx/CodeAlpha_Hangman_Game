@@ -77,6 +77,19 @@ python Hangman_Shell.py
 ---
 
 
+## 📸 Screenshots
+
+1. Home Screen
+<img width="2880" height="1796" alt="home" src="https://github.com/user-attachments/assets/99938b62-62cb-4a87-aeb9-e3f33e742402" />
+
+2. During Gameplay
+<img width="2880" height="1800" alt="gameplay" src="https://github.com/user-attachments/assets/d21ac5d4-1985-4294-8882-d349d53076bd" />
+
+3. Winning Screen
+<img width="2880" height="1800" alt="victory" src="https://github.com/user-attachments/assets/19a77d90-669c-4106-b288-68ddda7a7de2" />
+
+---
+
 ## 🎯 Learning Outcomes
 
 Implemented
