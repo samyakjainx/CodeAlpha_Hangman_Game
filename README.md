@@ -1,4 +1,11 @@
-# 🎮 Hangman Game
+# 🎮 CodeAlpha Hangman Game
+
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Project](https://img.shields.io/badge/Project-CodeAlpha-orange)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blueviolet)
+![GitHub last commit](https://img.shields.io/github/last-commit/samyakjainx/CodeAlpha_Hangman_Game)
 
 A professional text-based Hangman Game developed in Python as part of the CodeAlpha Python Programming Internship.
 
