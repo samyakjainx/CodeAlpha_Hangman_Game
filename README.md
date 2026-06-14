@@ -90,6 +90,16 @@ python Hangman_Shell.py
 
 ---
 
+## Future Improvements
+
+- Difficulty levels
+- Larger word database
+- Score tracking
+- Colorful terminal interface
+- Multiplayer mode
+
+---
+
 ## 🎯 Learning Outcomes
 
 Implemented
